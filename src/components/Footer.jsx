@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Logo and Tagline */}
         <div className="flex flex-col items-center md:items-start">
-          <h1 className="text-2xl font-bold mb-2">Active Defensive Industry</h1>
+          <h1 className="text-2xl font-bold mb-2">Active Defense Industry</h1>
           <p className="text-gray-400 text-sm">
             Smart security solutions for a safer world.
           </p>
@@ -62,7 +62,7 @@ export default function Footer() {
 
       {/* Divider and Copyright */}
       <div className="mt-10 border-t border-gray-700 pt-4 text-center text-gray-500 text-sm">
-        © 2025 SecureLife. All rights reserved.
+        © 2026 SecureLife. All rights reserved.
       </div>
     </footer>
   );
